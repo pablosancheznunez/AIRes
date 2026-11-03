@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 278" width="240" height="278" role="img" aria-label="AIRes logo">
+  <polygon points="120,4 236,71 236,207 120,274 4,207 4,71" fill="#3b4cca" stroke="#2c3a9c" stroke-width="6"/>
+  <rect x="62" y="54" width="104" height="132" rx="8" fill="#ffffff" opacity=".96"/>
+  <rect x="76" y="72" width="56" height="7" rx="3" fill="#3b4cca"/>
+  <rect x="76" y="90" width="76" height="5" rx="2" fill="#c4c9f0"/>
+  <rect x="76" y="102" width="70" height="5" rx="2" fill="#c4c9f0"/>
+  <rect x="72" y="116" width="84" height="20" rx="4" fill="#f6d365"/>
+  <rect x="78" y="123" width="60" height="6" rx="3" fill="#3b4cca"/>
+  <rect x="76" y="146" width="72" height="5" rx="2" fill="#c4c9f0"/>
+  <rect x="76" y="158" width="52" height="5" rx="2" fill="#c4c9f0"/>
+  <path d="M178 70 l5 13 l13 5 l-13 5 l-5 13 l-5 -13 l-13 -5 l13 -5 z" fill="#f6d365"/>
+  <text x="120" y="226" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#ffffff">AIRes</text>
+</svg>

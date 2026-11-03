@@ -1,4 +1,5 @@
-# AIRes
+# AIRes <img src="man/figures/logo.svg" align="right" height="139" alt="AIRes logo" />
+
 Website: <https://pablosancheznunez.com/AIRes/>
 
 How the use of artificial intelligence in research is **declared** and **governed**: AI-use disclosures in articles and AI policies of journals, publishers, funders and institutions.

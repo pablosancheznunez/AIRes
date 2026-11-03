@@ -3,7 +3,7 @@ url: https://pablosancheznunez.com/AIRes/
 template:
   bootstrap: 5
   bslib:
-    primary: "#5b3a91"
+    primary: "#3b4cca"
 
 authors:
   Pablo Sánchez-Núñez:
