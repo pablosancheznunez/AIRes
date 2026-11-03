@@ -3,7 +3,7 @@
 disclosure_version <- "1.0.0"
 
 read_dictionary <- function(file) {
-  utils::read.csv(system.file("extdata", file, package = "aiinresearch"), stringsAsFactors = FALSE,
+  utils::read.csv(system.file("extdata", file, package = "AIRes"), stringsAsFactors = FALSE,
                   encoding = "UTF-8")
 }
 

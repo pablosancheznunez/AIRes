@@ -1,4 +1,4 @@
-# aiinresearch 0.1.0
+# AIRes 0.1.0
 
 * First release (prototype): AI-use disclosure detector for article texts
   (rules 1.0.0, English and Spanish), tool and purpose dictionaries, corpus

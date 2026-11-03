@@ -1,4 +1,4 @@
-Package: aiinresearch
+Package: AIRes
 Title: Declared Use of Artificial Intelligence in Research Publications and Policies
 Version: 0.1.0
 Authors@R:
@@ -17,8 +17,8 @@ Description: Studies how the use of artificial intelligence in research is
     artificial intelligence from text, which automated detectors cannot
     establish.
 License: MIT + file LICENSE
-URL: https://github.com/pablosancheznunez/aiinresearch
-BugReports: https://github.com/pablosancheznunez/aiinresearch/issues
+URL: https://github.com/pablosancheznunez/AIRes
+BugReports: https://github.com/pablosancheznunez/AIRes/issues
 Depends:
     R (>= 4.1.0)
 Imports:

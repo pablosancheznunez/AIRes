@@ -1,6 +1,6 @@
 ## Submission
 
-First submission of aiinresearch.
+First submission of AIRes.
 
 ## Test environments
 

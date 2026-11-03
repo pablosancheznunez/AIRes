@@ -1,4 +1,4 @@
-# aiinresearch
+# AIRes
 
 How the use of artificial intelligence in research is **declared** and **governed**: AI-use disclosures in articles and AI policies of journals, publishers, funders and institutions.
 
@@ -18,8 +18,8 @@ For logging and disclosing AI use inside your own project, use [aitrail](https:/
 
 ```r
 # install.packages("remotes")
-remotes::install_github("pablosancheznunez/aiinresearch")
-library(aiinresearch)
+remotes::install_github("pablosancheznunez/AIRes")
+library(AIRes)
 
 d <- air_detect_disclosure(texts, id = dois)
 d[, c("id", "disclosure_statement", "use_declared", "non_use_declared", "tools", "purposes")]

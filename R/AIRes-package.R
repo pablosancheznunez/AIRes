@@ -1,4 +1,4 @@
-#' aiinresearch: declared use of AI in research publications and policies
+#' AIRes: declared use of AI in research publications and policies
 #'
 #' * [air_detect_disclosure()]: AI-use disclosures in article full texts;
 #' * [air_code_policy()] with [air_policy_codebook()]: what journal and

@@ -1,4 +1,4 @@
 library(testthat)
-library(aiinresearch)
+library(AIRes)
 
-test_check("aiinresearch")
+test_check("AIRes")
