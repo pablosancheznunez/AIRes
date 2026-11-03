@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use aiinresearch, please cite it as below."
+type: software
+title: "aiinresearch: declared use of artificial intelligence in research publications and policies"
+version: 0.0.0.9000
+authors:
+  - family-names: "Sánchez-Núñez"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0000-0001-7845-9506"
+repository-code: "https://github.com/pablosancheznunez/aiinresearch"
+license: MIT
+keywords:
+  - artificial intelligence
+  - research integrity
+  - AI disclosure
+  - research policy
+  - metascience

@@ -1,0 +1,8 @@
+id,label,pattern
+language_editing,Language editing and proofreading,"\b(grammar|spelling|proofread\w*|language editing|copy-?edit\w*|readability|polish\w*|improve (the )?(language|wording|writing|clarity)|edit(ing)? (the )?(language|text|manuscript)|correcci[o\x{f3}]n (de )?(estilo|ling[u\x{fc}][i\x{ed}]stica))"
+translation,Translation,"\b(translat\w*|traducci[o\x{f3}]n|traduc\w*)\b"
+drafting,Drafting or generating text,"\b(draft\w*|generat\w* (the )?(text|content|sections?|summar\w*)|writ(e|ing) (the )?(first draft|sections?|abstract|introduction)|redacci[o\x{f3}]n)\b"
+coding,Writing or debugging code,"\b(cod(e|ing)|programming|scripts?|debug\w*|c[o\x{f3}]digo)\b"
+data_analysis,Data analysis,"\b(data analysis|statistical analys\w*|analy[sz]\w* (the )?data|an[a\x{e1}]lisis de (los )?datos)\b"
+literature,Literature search or synthesis,"\b(literature (search|review|screening)|search(ing)? for (articles|references|literature)|summari[sz]\w* (the )?(literature|articles|studies)|b[u\x{fa}]squeda bibliogr[a\x{e1}]fica)\b"
+images,Images or figures,"\b(images?|figures?|illustrations?|graphical abstract|im[a\x{e1}]genes|figuras)\b"

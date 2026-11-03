@@ -1,0 +1,20 @@
+tool,pattern,category
+ChatGPT,"\bchat ?gpt\b",general-purpose chatbot
+GPT (OpenAI models),"\bgpt-?[345](\.5|o)?\b|\bopenai\b",large language model
+Claude,"\bclaude\b(?! bernard)",general-purpose chatbot
+Gemini,"\bgoogle gemini\b|\bgemini (pro|ultra|flash|advanced|[12](\.[05])?)\b",general-purpose chatbot
+Bard,"\bgoogle bard\b|\bbard\b(?= \(google)",general-purpose chatbot
+Microsoft Copilot,"\b(microsoft |bing |github )?copilot\b",assistant
+Llama,"\bllama ?[23]?\b(?=.{0,40}(model|meta|llm))|\bmeta llama\b",large language model
+Mistral,"\bmistral (ai|large|7b)\b|\bmixtral\b",large language model
+DeepSeek,"\bdeepseek\b",large language model
+Perplexity,"\bperplexity( ai)?\b(?=.{0,40}(search|tool|ai|assist))|\bperplexity\.ai\b",search assistant
+Grammarly,"\bgrammarly\b",writing assistant
+QuillBot,"\bquillbot\b",writing assistant
+DeepL,"\bdeepl\b",translation
+Elicit,"\belicit(\.org| ai)\b",literature assistant
+Consensus,"\bconsensus\.app\b",literature assistant
+Scite,"\bscite(\.ai| assistant)\b",literature assistant
+Midjourney,"\bmidjourney\b",image generation
+DALL-E,"\bdall[- ]?e( ?[23])?\b",image generation
+Stable Diffusion,"\bstable diffusion\b",image generation

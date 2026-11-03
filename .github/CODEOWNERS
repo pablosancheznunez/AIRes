@@ -1,0 +1,7 @@
+# Paths whose changes need the maintainer's review: detection and coding
+# rules, dictionaries and expected outputs.
+/R/disclosure.R @pablosancheznunez
+/R/policy.R @pablosancheznunez
+/inst/extdata/ @pablosancheznunez
+/tests/ @pablosancheznunez
+/.github/ @pablosancheznunez

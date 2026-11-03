@@ -1,0 +1,31 @@
+Package: aiinresearch
+Title: Declared Use of Artificial Intelligence in Research Publications and Policies
+Version: 0.0.0.9000
+Authors@R:
+    person("Pablo", "Sánchez-Núñez", email = "psancheznunez@outlook.com",
+           role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0001-7845-9506"))
+Description: Studies how the use of artificial intelligence in research is
+    declared and governed. Detects AI-use disclosure statements in article
+    full texts, with the tools named, the purposes declared, declared non-use
+    and statements of human oversight; codes journal and institutional AI
+    policies on a documented codebook (authorship, disclosure, permitted
+    uses, images, peer review, responsibility); and summarises disclosure
+    rates across a corpus with confidence intervals. Rules are explicit and
+    versioned, and every result carries the sentence that supports it. Only
+    declared use is measured: the package does not try to infer AI
+    authorship from text, which automated detectors cannot establish.
+License: MIT + file LICENSE
+URL: https://github.com/pablosancheznunez/aiinresearch
+BugReports: https://github.com/pablosancheznunez/aiinresearch/issues
+Depends:
+    R (>= 4.1.0)
+Imports:
+    stats,
+    utils
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
